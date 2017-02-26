@@ -10,3 +10,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.DS_Store
+.springBeans
+
+# Maven
+classes/
+/build
+target/
+
+# Eclipse
+.classpath
+.project
+.metadata
+.settings/
